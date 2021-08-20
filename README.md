@@ -10,8 +10,6 @@ It was created as part of a proposed assignment during the Full Stack Developmen
 
 <img src="Screenshot 2021-08-20 150451.png"/>
 
-Live Preview: 
-
 # How to Run
 
 1 - Clone the repository in your local computer<br/>
