@@ -1,4 +1,4 @@
-### Title
+# Title
 
 Tic Tac Toe - MIT Project
 
