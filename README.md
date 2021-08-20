@@ -10,7 +10,7 @@ This project shows a Tic Tac Toe board which enables to to quickly play with a f
 
 It was created as part of a proposed assignment during the Full Stack Development Professional Certificate career in 2021.
 
-//<img src="Screenshot 2021-08-20 150451.png"/>
+<img src="Screenshot 2021-08-20 150451.png"/>
 
 Live Preview: 
 
