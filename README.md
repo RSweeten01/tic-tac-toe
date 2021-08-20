@@ -1,8 +1,6 @@
-### Tic Tac Toe - MIT Project
+### Title
 
-# Title
-
-Tic Tac Toe with React
+Tic Tac Toe - MIT Project
 
 # Description
 
